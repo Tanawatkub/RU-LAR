@@ -1,4 +1,4 @@
-# ROO-RA
+# RU-LAR
 Day1 The Diary In Group Project 
 - Problem 
 - ปัญหาหลัก คือ การสื่อสารในห้องเรียนยังเป็นทางเดียว
